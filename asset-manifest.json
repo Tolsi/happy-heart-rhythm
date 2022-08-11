@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/happy-heart-rhythm/static/css/main.57206aa6.css",
+    "main.js": "/happy-heart-rhythm/static/js/main.26a41d8f.js",
+    "static/js/787.1b2d3dd3.chunk.js": "/happy-heart-rhythm/static/js/787.1b2d3dd3.chunk.js",
+    "static/media/heart-loving-svgrepo-com.svg": "/happy-heart-rhythm/static/media/heart-loving-svgrepo-com.b8c26e16295910dbb9d897797d072548.svg",
+    "index.html": "/happy-heart-rhythm/index.html",
+    "main.57206aa6.css.map": "/happy-heart-rhythm/static/css/main.57206aa6.css.map",
+    "main.26a41d8f.js.map": "/happy-heart-rhythm/static/js/main.26a41d8f.js.map",
+    "787.1b2d3dd3.chunk.js.map": "/happy-heart-rhythm/static/js/787.1b2d3dd3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.57206aa6.css",
+    "static/js/main.26a41d8f.js"
+  ]
+}
