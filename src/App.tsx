@@ -61,7 +61,7 @@ function App() {
         // Connect all nodes together
         Dot.chain(synth, stereoPanner, chorus, reverb, limiter, AC.destination)
 
-        await load({background: 'background1-short.mp3', heartbeat: 'heartbeat.mp3'}).then((buffers: any) => {
+        await load({background: 'background1-shorter.mp3', heartbeat: 'heartbeat.mp3'}).then((buffers: any) => {
             console.log('!')
             audioBuffers = buffers
             isInitFinished = true
